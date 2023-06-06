@@ -20,8 +20,7 @@
 
 ## OUTPUT
 ![agen sc -1](https://github.com/Kiruthigamoorthi/EX10_Web-Design/assets/127816726/f46d5112-3fd7-4791-a65c-04143a81eeda)
-![agen sc -2]![agen sc -3](https://github.com/Kiruthigamoorthi/EX10_Web-Design/assets/127816726/5cc99a0d-29d6-4b95-a716-50f293c08be6)
-(https://github.com/Kiruthigamoorthi/EX10_Web-Design/assets/127816726/df446e4e-a880-45ac-81ad-c37dd5078e5f)
+![agen sc -2](https://github.com/Kiruthigamoorthi/EX10_Web-Design/assets/127816726/df446e4e-a880-45ac-81ad-c37dd5078e5f)
 
 
 ## RESULT
