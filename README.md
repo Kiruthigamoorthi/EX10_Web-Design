@@ -21,7 +21,7 @@
 ## OUTPUT
 ![agen sc -1](https://github.com/Kiruthigamoorthi/EX10_Web-Design/assets/127816726/f46d5112-3fd7-4791-a65c-04143a81eeda)
 ![agen sc -2](https://github.com/Kiruthigamoorthi/EX10_Web-Design/assets/127816726/df446e4e-a880-45ac-81ad-c37dd5078e5f)
-
+![agen sc -3](https://github.com/Kiruthigamoorthi/EX10_Web-Design/assets/127816726/008c9ad6-8f16-4a30-b814-48ec6b8599cb)
 
 ## RESULT
   A web page for an Agricultural Agency is designed using WordPress.
